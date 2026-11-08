@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "roadcodez-site",
+      "runtimeExecutable": "/Library/Frameworks/Python.framework/Versions/3.12/bin/python3",
+      "runtimeArgs": ["-m", "http.server", "4173", "--bind", "127.0.0.1", "--directory", "/Users/base/roadcodez-site/site"],
+      "port": 4173
+    }
+  ]
+}

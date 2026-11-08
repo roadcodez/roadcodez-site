@@ -1,0 +1,119 @@
+[
+ {
+  "case": "straight",
+  "start_rear_ft": [
+   -0.0,
+   62.5
+  ],
+  "start_headings_deg": [
+   90,
+   90
+  ],
+  "final_rear_xy_ft": [
+   -0.0,
+   0.5
+  ],
+  "final_headings_deg": [
+   90.0,
+   90.0
+  ],
+  "max_steer_deg": 0.0,
+  "max_trailer_angle_deg": 0.0,
+  "min_clearance_ft": 3.5,
+  "replay_pos_err_ft": 0.0,
+  "replay_angle_err_deg": 0.0,
+  "arrow_head_dir_screen": [
+   0.0,
+   -1.0
+  ],
+  "arrow_tip_world_ft": [
+   -0.0,
+   7.4
+  ],
+  "arrow_goes_toward_dock": true,
+  "path_len_ft": 62,
+  "rig_extent_ft": {
+   "xmax": 4.3,
+   "ymax": 135.9,
+   "xmin": -4.3
+  }
+ },
+ {
+  "case": "angle45",
+  "start_rear_ft": [
+   26.0,
+   100.0
+  ],
+  "start_headings_deg": [
+   45,
+   45
+  ],
+  "final_rear_xy_ft": [
+   0.0,
+   0.5
+  ],
+  "final_headings_deg": [
+   90.0,
+   90.0
+  ],
+  "max_steer_deg": 29.1,
+  "max_trailer_angle_deg": 35.7,
+  "min_clearance_ft": 2.16,
+  "replay_pos_err_ft": 0.03,
+  "replay_angle_err_deg": 0.06,
+  "arrow_head_dir_screen": [
+   -0.0,
+   -1.0
+  ],
+  "arrow_tip_world_ft": [
+   0.0,
+   7.5
+  ],
+  "arrow_goes_toward_dock": true,
+  "path_len_ft": 107,
+  "rig_extent_ft": {
+   "xmax": 80.9,
+   "ymax": 154.9,
+   "xmin": -4.6
+  }
+ },
+ {
+  "case": "offset90",
+  "start_rear_ft": [
+   55.0,
+   110.0
+  ],
+  "start_headings_deg": [
+   0,
+   0
+  ],
+  "final_rear_xy_ft": [
+   0.0,
+   0.5
+  ],
+  "final_headings_deg": [
+   90.0,
+   90.0
+  ],
+  "max_steer_deg": 31.8,
+  "max_trailer_angle_deg": 51.6,
+  "min_clearance_ft": 2.63,
+  "replay_pos_err_ft": 0.09,
+  "replay_angle_err_deg": 0.14,
+  "arrow_head_dir_screen": [
+   0.001,
+   -1.0
+  ],
+  "arrow_tip_world_ft": [
+   -0.0,
+   7.4
+  ],
+  "arrow_goes_toward_dock": true,
+  "path_len_ft": 144,
+  "rig_extent_ft": {
+   "xmax": 128.4,
+   "ymax": 138.7,
+   "xmin": -4.3
+  }
+ }
+]

@@ -1,0 +1,207 @@
+PASS generated SVG parts exist (rig + 3 backing)  [backing_angle45.svg, backing_offset90.svg, backing_straight.svg, rig.svg]
+PASS backing_angle45.svg is well-formed XML
+PASS backing_offset90.svg is well-formed XML
+PASS backing_straight.svg is well-formed XML
+PASS rig.svg is well-formed XML
+PASS 404.html: no duplicate ids
+PASS 404.html: no unresolved {{placeholders}}
+PASS 404.html: logo link goes Home
+PASS 404.html: local ref exists -> assets/favicon-48.png
+PASS 404.html: local ref exists -> assets/apple-touch-icon.png
+PASS 404.html: local ref exists -> css/styles.css
+PASS 404.html: local ref exists -> index.html
+PASS 404.html: local ref exists -> assets/rc-mark.png
+PASS 404.html: local ref exists -> assets/rc-wordmark.png
+PASS 404.html: local ref exists -> index.html
+PASS 404.html: local ref exists -> trucking.html
+PASS 404.html: local ref exists -> training.html
+PASS 404.html: local ref exists -> ai.html
+PASS 404.html: local ref exists -> index.html
+PASS 404.html: local ref exists -> index.html
+PASS 404.html: local ref exists -> assets/rc-wordmark.png
+PASS 404.html: local ref exists -> index.html
+PASS 404.html: local ref exists -> trucking.html
+PASS 404.html: local ref exists -> training.html
+PASS 404.html: local ref exists -> ai.html
+PASS 404.html: local ref exists -> js/site.js
+PASS 404.html: carrier name only appears inside the rig drawing
+PASS ai.html: no duplicate ids
+PASS ai.html: no unresolved {{placeholders}}
+PASS ai.html: logo link goes Home
+PASS ai.html: local ref exists -> assets/favicon-48.png
+PASS ai.html: local ref exists -> assets/apple-touch-icon.png
+PASS ai.html: local ref exists -> css/styles.css
+PASS ai.html: local ref exists -> index.html
+PASS ai.html: local ref exists -> assets/rc-mark.png
+PASS ai.html: local ref exists -> assets/rc-wordmark.png
+PASS ai.html: local ref exists -> index.html
+PASS ai.html: local ref exists -> trucking.html
+PASS ai.html: local ref exists -> training.html
+PASS ai.html: local ref exists -> ai.html
+PASS ai.html: local ref exists -> trucking.html
+PASS ai.html: local ref exists -> index.html
+PASS ai.html: local ref exists -> assets/rc-wordmark.png
+PASS ai.html: local ref exists -> index.html
+PASS ai.html: local ref exists -> trucking.html
+PASS ai.html: local ref exists -> training.html
+PASS ai.html: local ref exists -> ai.html
+PASS ai.html: local ref exists -> js/site.js
+PASS ai.html: carrier name only appears inside the rig drawing
+PASS index.html: no duplicate ids
+PASS index.html: no unresolved {{placeholders}}
+PASS index.html: logo link goes Home
+PASS index.html: local ref exists -> assets/favicon-48.png
+PASS index.html: local ref exists -> assets/apple-touch-icon.png
+PASS index.html: local ref exists -> css/styles.css
+PASS index.html: local ref exists -> index.html
+PASS index.html: local ref exists -> assets/rc-mark.png
+PASS index.html: local ref exists -> assets/rc-wordmark.png
+PASS index.html: local ref exists -> index.html
+PASS index.html: local ref exists -> trucking.html
+PASS index.html: local ref exists -> training.html
+PASS index.html: local ref exists -> ai.html
+PASS index.html: local ref exists -> assets/rc-mark-hero.png
+PASS index.html: local ref exists -> trucking.html
+PASS index.html: local ref exists -> training.html
+PASS index.html: local ref exists -> ai.html
+PASS index.html: local ref exists -> assets/ogre-mascot.jpg
+PASS index.html: local ref exists -> trucking.html
+PASS index.html: local ref exists -> ai.html
+PASS index.html: local ref exists -> index.html
+PASS index.html: local ref exists -> assets/rc-wordmark.png
+PASS index.html: local ref exists -> index.html
+PASS index.html: local ref exists -> trucking.html
+PASS index.html: local ref exists -> training.html
+PASS index.html: local ref exists -> ai.html
+PASS index.html: local ref exists -> js/site.js
+PASS index.html: carrier name only appears inside the rig drawing
+PASS training.html: no duplicate ids
+PASS training.html: no unresolved {{placeholders}}
+PASS training.html: logo link goes Home
+PASS training.html: local ref exists -> assets/favicon-48.png
+PASS training.html: local ref exists -> assets/apple-touch-icon.png
+PASS training.html: local ref exists -> css/styles.css
+PASS training.html: local ref exists -> index.html
+PASS training.html: local ref exists -> assets/rc-mark.png
+PASS training.html: local ref exists -> assets/rc-wordmark.png
+PASS training.html: local ref exists -> index.html
+PASS training.html: local ref exists -> trucking.html
+PASS training.html: local ref exists -> training.html
+PASS training.html: local ref exists -> ai.html
+PASS training.html: local ref exists -> ai.html
+PASS training.html: local ref exists -> index.html
+PASS training.html: local ref exists -> assets/rc-wordmark.png
+PASS training.html: local ref exists -> index.html
+PASS training.html: local ref exists -> trucking.html
+PASS training.html: local ref exists -> training.html
+PASS training.html: local ref exists -> ai.html
+PASS training.html: local ref exists -> js/site.js
+PASS training.html: carrier name only appears inside the rig drawing
+PASS trucking.html: no duplicate ids
+PASS trucking.html: no unresolved {{placeholders}}
+PASS trucking.html: logo link goes Home
+PASS trucking.html: local ref exists -> assets/favicon-48.png
+PASS trucking.html: local ref exists -> assets/apple-touch-icon.png
+PASS trucking.html: local ref exists -> css/styles.css
+PASS trucking.html: local ref exists -> index.html
+PASS trucking.html: local ref exists -> assets/rc-mark.png
+PASS trucking.html: local ref exists -> assets/rc-wordmark.png
+PASS trucking.html: local ref exists -> index.html
+PASS trucking.html: local ref exists -> trucking.html
+PASS trucking.html: local ref exists -> training.html
+PASS trucking.html: local ref exists -> ai.html
+PASS trucking.html: local ref exists -> training.html
+PASS trucking.html: local ref exists -> index.html
+PASS trucking.html: local ref exists -> assets/rc-wordmark.png
+PASS trucking.html: local ref exists -> index.html
+PASS trucking.html: local ref exists -> trucking.html
+PASS trucking.html: local ref exists -> training.html
+PASS trucking.html: local ref exists -> ai.html
+PASS trucking.html: local ref exists -> js/site.js
+PASS trucking.html: carrier name only appears inside the rig drawing
+PASS backing_angle45.svg: no carrier text
+PASS backing_angle45.svg: no external references
+PASS backing_offset90.svg: no carrier text
+PASS backing_offset90.svg: no external references
+PASS backing_straight.svg: no carrier text
+PASS backing_straight.svg: no external references
+PASS rig.svg: trailer decal reads PRIME inc. (caps PRIME, lowercase inc.)
+PASS rig.svg: door decal present
+PASS rig.svg: no external references
+PASS gap = ~5 ft sleeper-to-trailer, of which fairings take 1.5 ft (Matt)  [gap 5.0, fairings 1.5]
+PASS visible gap behind the fairings is ~3.5 ft (Matt)
+PASS reefer unit fits between fairings and trailer nose with >=1 ft clearance  [unit 2.2 ft, clearance 1.3 ft]
+PASS sleeper behind the door is ~6 ft (72-inch sleeper, Matt)  [5.95 ft]
+PASS trailer nose sits about over the front drive tyre's leading edge (photos)  [nose 17.3, tyre edge 16.5]
+PASS fifth wheel (kingpin) sits within the drive-tandem span  [kingpin 20.3, axles 18.2-22.4]
+PASS trailer nose is ahead of rear drive axle (trailer overhangs the tractor frame)
+PASS frame extends from behind the cab to the fifth wheel  [cab back 12.3, kingpin 20.3]
+PASS trailer top = 13.5 ft (13 ft 6 in label)
+PASS trailer box = 53 ft (label)
+PASS axle count = 5 (1 steer + 2 drive + 2 trailer)
+PASS APU not drawn on the driver's side (it is on the passenger-side frame)
+PASS rig label present: Reefer unit
+PASS rig label present: Fairings
+PASS rig label present: Fifth wheel
+PASS rig label present: 53 ft trailer
+PASS rig label present: 13 ft 6 in
+PASS rig label present: Steer axle
+PASS rig label present: Drive tandem
+PASS rig label present: Trailer tandem
+PASS rig label present: Gap behind the cab
+PASS height at the back of the sleeper/fairings equals the trailer height (drawn outlines)  [cab top y=69.8px, trailer top y=69.5px]
+PASS visible gap, back of fairings to trailer front, is 3.5 ft (drawn outlines)  [3.50 ft]
+PASS reefer unit sits inside that gap, in front of the trailer's front wall (drawn outlines)  [unit depth 2.20 ft of a 3.50 ft gap]
+PASS deer guard exists and sticks out >= 0.5 ft in front of the bumper (drawn)  [0.60 ft ahead]
+PASS black plastic lower bumper below the gray/chrome part (drawn)
+PASS black lower skirts reach to within 1 ft of the ground along cab + sleeper (drawn)  [0.78 ft above ground]
+PASS skirts span the whole cab+sleeper length (drawn)
+PASS upper sleeper window present, above the header seam and below the roof (drawn)
+PASS lower sleeper window present
+PASS gold decals are two-tone (bright + dark gold, >=4 of each)  [5 bright / 5 dark]
+PASS sim wheelbase == drawing wheelbase  [sim 20.3, drawing 20.30]
+PASS sim kingpin->trailer-tandem == drawing  [sim 42.0, drawing 42.00]
+PASS sim cab-fairing rear ahead of kingpin == drawing  [sim 6.50, drawing 6.50]
+PASS straight: tractor never slides sideways (kingpin heading error)  [0.00 deg]
+PASS straight: trailer never slides sideways (axle heading error)  [0.00 deg]
+PASS straight: replaying the steering reproduces the path  [0 ft, 0 deg]
+PASS straight: ends centred in bay, square, rear at dock  [rear (-0.00,0.50) t1 90.0 t2 90.0]
+PASS straight: clears every parked trailer by >= 2 ft  [3.5 ft]
+PASS straight: steering within 35 deg  [0.0 deg]
+PASS straight: trailer angle within 60 deg (no jackknife)  [0 deg]
+PASS straight: start trailer heading = 90 deg  [90.0]
+PASS straight: arrowhead present
+PASS straight: arrowhead points toward the dock (up the page)  [heading -90.0 deg (screen), -90 = straight up]
+PASS straight: arrow tip inside the bay near the dock  [(-0.0, 7.4) ft]
+PASS straight: arrow starts at the trailer's rear end  [dot (-0.0,62.5) vs rear (-0.0,62.5)]
+PASS straight: cab is on the opposite end of the rig from the arrow tail  [72 ft apart]
+PASS angle45: tractor never slides sideways (kingpin heading error)  [0.00 deg]
+PASS angle45: trailer never slides sideways (axle heading error)  [0.00 deg]
+PASS angle45: replaying the steering reproduces the path  [0.03 ft, 0.06 deg]
+PASS angle45: ends centred in bay, square, rear at dock  [rear (0.00,0.50) t1 90.0 t2 90.0]
+PASS angle45: clears every parked trailer by >= 2 ft  [2.16 ft]
+PASS angle45: steering within 35 deg  [29.1 deg]
+PASS angle45: trailer angle within 60 deg (no jackknife)  [35.7 deg]
+PASS angle45: start trailer heading = 45 deg  [45.0]
+PASS angle45: arrowhead present
+PASS angle45: arrowhead points toward the dock (up the page)  [heading -90.0 deg (screen), -90 = straight up]
+PASS angle45: arrow tip inside the bay near the dock  [(0.0, 7.4) ft]
+PASS angle45: arrow starts at the trailer's rear end  [dot (26.0,100.0) vs rear (26.0,100.0)]
+PASS angle45: cab is on the opposite end of the rig from the arrow tail  [72 ft apart]
+PASS offset90: tractor never slides sideways (kingpin heading error)  [0.00 deg]
+PASS offset90: trailer never slides sideways (axle heading error)  [0.00 deg]
+PASS offset90: replaying the steering reproduces the path  [0.09 ft, 0.14 deg]
+PASS offset90: ends centred in bay, square, rear at dock  [rear (0.00,0.50) t1 90.0 t2 90.0]
+PASS offset90: clears every parked trailer by >= 2 ft  [2.63 ft]
+PASS offset90: steering within 35 deg  [31.8 deg]
+PASS offset90: trailer angle within 60 deg (no jackknife)  [51.6 deg]
+PASS offset90: start trailer heading = 0 deg  [0.0]
+PASS offset90: arrowhead present
+PASS offset90: arrowhead points toward the dock (up the page)  [heading -90.0 deg (screen), -90 = straight up]
+PASS offset90: arrow tip inside the bay near the dock  [(-0.0, 7.4) ft]
+PASS offset90: arrow starts at the trailer's rear end  [dot (55.0,110.0) vs rear (55.0,110.0)]
+PASS offset90: cab is on the opposite end of the rig from the arrow tail  [72 ft apart]
+PASS 'about 3½ ft to spare on each side' matches 12-ft door spacing and 8.5-ft trailers  [3.5 ft]
+PASS 'rear starts roughly 100 ft from the dock' (45 deg)  [[26.0, 100.0]]
+
+205/205 checks passed
