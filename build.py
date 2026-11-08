@@ -61,7 +61,7 @@ TAIL = """
 """
 
 ORG_LD = """<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Organization","name":"RoadCodez","url":"https://roadcodez.com","logo":"https://roadcodez.com/assets/icon-512.png","description":"Trucking, driver training and private local-first AI."}
+{"@context":"https://schema.org","@type":"Organization","name":"RoadCodez","url":"https://roadcodez.com","logo":"https://roadcodez.com/assets/icon-512.png","description":"Trucking and driver training for Prime Inc., plus AI-built agents, apps and creative work."}
 </script>
 """
 
