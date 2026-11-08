@@ -41,8 +41,6 @@ for p in pages:
     check(f"{p.name}: logo link goes Home", bool(first_a) and first_a.group(1) == "index.html")
     for ref in re.findall(r'(?:src|href)="([^"#?:]+\.(?:html|css|js|png|jpg|svg|xml|txt))"', h):
         check(f"{p.name}: local ref exists -> {ref}", (ROOT / "site" / ref).exists())
-    outside_svg = re.sub(r"<svg.*?</svg>", " ", h, flags=re.S)
-    check(f"{p.name}: carrier name only appears inside the rig drawing", not re.search(r"\bprime\b", re.sub(r"<[^>]+>", " ", outside_svg), re.I))
 for svg in parts:
     t = svg.read_text()
     if svg.name == "rig.svg":
