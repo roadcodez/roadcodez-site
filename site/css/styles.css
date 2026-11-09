@@ -159,6 +159,8 @@ ul{margin:0;padding:0;list-style:none}
 .footer__col a:hover{color:var(--gold-2)}
 .footer__legal{margin-top:36px;padding-top:20px;border-top:1px solid var(--line);font-size:.82rem;color:var(--dim);display:flex;gap:12px 24px;flex-wrap:wrap;justify-content:space-between}
 .footer__legal p{margin:0;color:inherit}
+.footer__legal a{color:var(--dim);text-decoration:underline}
+.footer__legal a:hover{color:var(--gold-2)}
 @media (max-width:760px){.footer__grid{grid-template-columns:1fr}}
 
 /* ---------- Page-specific ---------- */

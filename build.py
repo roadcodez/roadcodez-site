@@ -79,7 +79,7 @@ def build():
         fm, body = parse(p)
         nav = fm.get("nav", "")
         h = header
-        for key in ("home", "trucking", "training", "ai"):
+        for key in ("home", "trucking", "training", "ai", "about"):
             h = h.replace("{{nav_%s}}" % key, ' aria-current="page"' if nav == key else "")
         # generated artwork lives in src/_parts (made by tools/*.py); {{include:name.svg}} pastes it in
         body = re.sub(r"\{\{include:([\w.\-]+)\}\}", lambda m: (SRC / "_parts" / m.group(1)).read_text(), body)
